@@ -1,6 +1,5 @@
-# Memer Development Spanish
+# 6889 Development
 
-> **We are developing a dynamic image API so you can entertain yourself using it by simply obtaining an access token on a new [server](https://discord.gg/kCdYrAJF8y) and viewing the [methods](https://github.com/k4itrun/memer-api-js/blob/main/methods.md)**
 ### Developers
 - **[k4itrun](https://github.com/k4itrun)**
 - **[Rocky](https://github.com/rocky-pup)**
